@@ -2,17 +2,6 @@
 
 A comprehensive relational database system designed to manage member certifications across multiple sports disciplines. This project demonstrates advanced SQL database design principles, normalisation techniques, and complex query implementation for real-world sports club operations.
 
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Database Schema](#database-schema)
-- [Features](#features)
-- [Installation & Setup](#installation--setup)
-- [Usage Examples](#usage-examples)
-- [Query Capabilities](#query-capabilities)
-- [Technical Highlights](#technical-highlights)
-- [Future Enhancements](#future-enhancements)
-
 ## 🏆 Project Overview
 
 The Sports Club Database Management System addresses the complex requirements of managing member certifications, instructor assignments, and sports programme administration. The system efficiently handles relationships between members, instructors, sports programs, and assessment records through a well-structured relational design.
